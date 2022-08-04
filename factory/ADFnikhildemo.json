@@ -1,0 +1,9 @@
+{
+	"name": "ADFnikhildemo",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d324e5e-16b1-441a-84d7-9916fee6d478",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
